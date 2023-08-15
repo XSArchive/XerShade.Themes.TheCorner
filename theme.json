@@ -1,9 +1,9 @@
 {
-    "version": 2,
-    "settings": {
+  "version": 2,
+  "settings": {
     "layout": {
-        "contentSize": "840px",
-        "wideSize": "1100px"
+      "contentSize": "840px",
+      "wideSize": "1100px"
     }
-}
+  }
 }
