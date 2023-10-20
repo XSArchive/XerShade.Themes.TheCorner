@@ -1,7 +1,7 @@
 === The Corner ===
 Contributors: XerShade
 Requires at least: 6.0
-Tested up to: 6.3.1
+Tested up to: 6.3.2
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -36,10 +36,3 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 License URL: http://scripts.sil.org/OFL 
 Source: http://www.danieljohnson.name
 -- End of Jura Font credits --
-
-Roboto Font
-Copyright 2011 Google Inc. All Rights Reserved. 
-Licensed under the Apache License, Version 2.0 
-License URL: http://www.apache.org/licenses/LICENSE-2.0 
-Source: Google.com
--- End of Roboto Font credits --
