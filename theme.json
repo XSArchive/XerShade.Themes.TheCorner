@@ -461,60 +461,6 @@
 					"name": "System Font",
 					"slug": "system-font",
 					"fontFace": []
-				},
-				{
-					"fontFamily": "Alegreya Sans",
-					"slug": "alegreya-sans",
-					"fontFace": [
-						{
-							"fontFamily": "Alegreya Sans",
-							"fontStyle": "normal",
-							"fontWeight": "300",
-							"src": [
-								"file:./assets/fonts/alegreya-sans_normal_300.ttf"
-							]
-						},
-						{
-							"fontFamily": "Alegreya Sans",
-							"fontStyle": "normal",
-							"fontWeight": "100",
-							"src": [
-								"file:./assets/fonts/alegreya-sans_normal_100.ttf"
-							]
-						},
-						{
-							"fontFamily": "Alegreya Sans",
-							"fontStyle": "italic",
-							"fontWeight": "100",
-							"src": [
-								"file:./assets/fonts/alegreya-sans_italic_100.ttf"
-							]
-						},
-						{
-							"fontFamily": "Alegreya Sans",
-							"fontStyle": "italic",
-							"fontWeight": "300",
-							"src": [
-								"file:./assets/fonts/alegreya-sans_italic_300.ttf"
-							]
-						},
-						{
-							"fontFamily": "Alegreya Sans",
-							"fontStyle": "normal",
-							"fontWeight": "700",
-							"src": [
-								"file:./assets/fonts/alegreya-sans_normal_700.ttf"
-							]
-						},
-						{
-							"fontFamily": "Alegreya Sans",
-							"fontStyle": "italic",
-							"fontWeight": "700",
-							"src": [
-								"file:./assets/fonts/alegreya-sans_italic_700.ttf"
-							]
-						}
-					]
 				}
 			]
 		},
