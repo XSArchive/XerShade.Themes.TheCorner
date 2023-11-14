@@ -1,6 +1,445 @@
 {
 	"settings": {
 		"appearanceTools": true,
+		"color": {
+			"palette": [
+								{
+					"color": "#2c8c69",
+					"name": "positive-dark",
+					"slug": "custom-positive-dark"
+				},
+				{
+					"color": "#e3f3ec",
+					"name": "positive-light",
+					"slug": "custom-positive-light"
+				},
+				{
+					"color": "#c53030",
+					"name": "negative-dark",
+					"slug": "custom-negative-dark"
+				},
+				{
+					"color": "#fff5f5",
+					"name": "negative-light",
+					"slug": "custom-negative-light"
+				},
+				{
+					"color": "#dd6b20",
+					"name": "intermediate-dark",
+					"slug": "custom-intermediate-dark"
+				},
+				{
+					"color": "#fffaf0",
+					"name": "intermediate-light",
+					"slug": "custom-intermediate-light"
+				},
+				{
+					"color": "#2981bf",
+					"name": "informational-dark",
+					"slug": "custom-informational-dark"
+				},
+				{
+					"color": "#e9f0f5",
+					"name": "informational-light",
+					"slug": "custom-informational-light"
+				},
+				{
+					"color": "#7f858d",
+					"name": "general-dark",
+					"slug": "custom-general-dark"
+				},
+				{
+					"color": "#f0f4f8",
+					"name": "general-light",
+					"slug": "custom-general-light"
+				},
+				{
+					"color": "#fac746",
+					"name": "trophy-firstbackground",
+					"slug": "custom-trophy-firstbackground"
+				},
+				{
+					"color": "#704926",
+					"name": "trophy-firstcolor",
+					"slug": "custom-trophy-firstcolor"
+				},
+				{
+					"color": "#c0c0c0",
+					"name": "trophy-secondbackground",
+					"slug": "custom-trophy-secondbackground"
+				},
+				{
+					"color": "#cd7f32",
+					"name": "trophy-thirdbackground",
+					"slug": "custom-trophy-thirdbackground"
+				},
+				{
+					"color": "#bdc4d7",
+					"name": "active_input_border",
+					"slug": "custom-active-input-border"
+				},
+				{
+					"color": "#535864",
+					"name": "alternate_button",
+					"slug": "custom-alternate-button"
+				},
+				{
+					"color": "#ffffff",
+					"name": "alternate_button_font",
+					"slug": "custom-alternate-button-font"
+				},
+				{
+					"color": "#353941",
+					"name": "area_background",
+					"slug": "custom-area-background"
+				},
+				{
+					"color": "#393d46",
+					"name": "area_background_dark",
+					"slug": "custom-area-background-dark"
+				},
+				{
+					"color": "#30333b",
+					"name": "area_background_light",
+					"slug": "custom-area-background-light"
+				},
+				{
+					"color": "#2d3037",
+					"name": "area_background_reset",
+					"slug": "custom-area-background-reset"
+				},
+				{
+					"color": "#177ec9",
+					"name": "brand_primary",
+					"slug": "custom-brand-primary"
+				},
+				{
+					"color": "#535864",
+					"name": "button_bar",
+					"slug": "custom-button-bar"
+				},
+				{
+					"color": "#414756",
+					"name": "comment_count",
+					"slug": "custom-comment-count"
+				},
+				{
+					"color": "#ffffff",
+					"name": "comment_count_font",
+					"slug": "custom-comment-count-font"
+				},
+				{
+					"color": "#2c8c69",
+					"name": "featured",
+					"slug": "custom-featured"
+				},
+				{
+					"color": "#2e4b5b",
+					"name": "focus_bg_1_color",
+					"slug": "custom-focus-bg-1-color"
+				},
+				{
+					"color": "#1f2126",
+					"name": "focus_bg_10_color",
+					"slug": "custom-focus-bg-10-color"
+				},
+				{
+					"color": "#0a404c",
+					"name": "focus_bg_2_color",
+					"slug": "custom-focus-bg-2-color"
+				},
+				{
+					"color": "#423863",
+					"name": "focus_bg_3_color",
+					"slug": "custom-focus-bg-3-color"
+				},
+				{
+					"color": "#3e874a",
+					"name": "focus_bg_4_color",
+					"slug": "custom-focus-bg-4-color"
+				},
+				{
+					"color": "#1f2126",
+					"name": "focus_bg_5_color",
+					"slug": "custom-focus-bg-5-color"
+				},
+				{
+					"color": "#1f2126",
+					"name": "focus_bg_6_color",
+					"slug": "custom-focus-bg-6-color"
+				},
+				{
+					"color": "#1f2126",
+					"name": "focus_bg_7_color",
+					"slug": "custom-focus-bg-7-color"
+				},
+				{
+					"color": "#1f2126",
+					"name": "focus_bg_8_color",
+					"slug": "custom-focus-bg-8-color"
+				},
+				{
+					"color": "#1f2126",
+					"name": "focus_bg_9_color",
+					"slug": "custom-focus-bg-9-color"
+				},
+				{
+					"color": "#ffffff",
+					"name": "footer_text",
+					"slug": "custom-footer-text"
+				},
+				{
+					"color": "#111111",
+					"name": "header",
+					"slug": "custom-header"
+				},
+				{
+					"color": "#ffffff",
+					"name": "header_text",
+					"slug": "custom-header-text"
+				},
+				{
+					"color": "#5c6272",
+					"name": "important_button",
+					"slug": "custom-important-button"
+				},
+				{
+					"color": "#ffffff",
+					"name": "important_button_font",
+					"slug": "custom-important-button-font"
+				},
+				{
+					"color": "#5ca5dc",
+					"name": "item_status",
+					"slug": "custom-item-status"
+				},
+				{
+					"color": "#393d46",
+					"name": "light_button",
+					"slug": "custom-light-button"
+				},
+				{
+					"color": "#ffffff",
+					"name": "light_button_font",
+					"slug": "custom-light-button-font"
+				},
+				{
+					"color": "#ffffff",
+					"name": "link",
+					"slug": "custom-link"
+				},
+				{
+					"color": "#a9abb0",
+					"name": "link_button",
+					"slug": "custom-link-button"
+				},
+				{
+					"color": "#ffffff",
+					"name": "link_hover",
+					"slug": "custom-link-hover"
+				},
+				{
+					"color": "#212328",
+					"name": "main_nav",
+					"slug": "custom-main-nav"
+				},
+				{
+					"color": "#ffffff",
+					"name": "main_nav_font",
+					"slug": "custom-main-nav-font"
+				},
+				{
+					"color": "#212328",
+					"name": "main_nav_tab",
+					"slug": "custom-main-nav-tab"
+				},
+				{
+					"color": "#ffffff",
+					"name": "main_nav_tab_font",
+					"slug": "custom-main-nav-tab-font"
+				},
+				{
+					"color": "#6c7180",
+					"name": "mentions",
+					"slug": "custom-mentions"
+				},
+				{
+					"color": "#4a3035",
+					"name": "moderated",
+					"slug": "custom-moderated"
+				},
+				{
+					"color": "#55373d",
+					"name": "moderated_light",
+					"slug": "custom-moderated-light"
+				},
+				{
+					"color": "#ebcbd1",
+					"name": "moderated_text",
+					"slug": "custom-moderated-text"
+				},
+				{
+					"color": "#b79097",
+					"name": "moderated_text_light",
+					"slug": "custom-moderated-text-light"
+				},
+				{
+					"color": "#5b6171",
+					"name": "normal_button",
+					"slug": "custom-normal-button"
+				},
+				{
+					"color": "#ffffff",
+					"name": "normal_button_font",
+					"slug": "custom-normal-button-font"
+				},
+				{
+					"color": "#36ab80",
+					"name": "notification_bubble",
+					"slug": "custom-notification-bubble"
+				},
+				{
+					"color": "#111111",
+					"name": "page_background",
+					"slug": "custom-page-background"
+				},
+				{
+					"color": "#7f8593",
+					"name": "pagination_active",
+					"slug": "custom-pagination-active"
+				},
+				{
+					"color": "#eebe72",
+					"name": "post_highlight",
+					"slug": "custom-post-highlight"
+				},
+				{
+					"color": "#624207",
+					"name": "post_highlight_border",
+					"slug": "custom-post-highlight-border"
+				},
+				{
+					"color": "#767d91",
+					"name": "prefix",
+					"slug": "custom-prefix"
+				},
+				{
+					"color": "#eca0a0",
+					"name": "price",
+					"slug": "custom-price"
+				},
+				{
+					"color": "#535864",
+					"name": "primary_button",
+					"slug": "custom-primary-button"
+				},
+				{
+					"color": "#ffffff",
+					"name": "primary_button_font",
+					"slug": "custom-primary-button-font"
+				},
+				{
+					"color": "#353c41",
+					"name": "profile_header",
+					"slug": "custom-profile-header"
+				},
+				{
+					"color": "#ff9800",
+					"name": "rating_on",
+					"slug": "custom-rating-on"
+				},
+				{
+					"color": "#5c6272",
+					"name": "secondary_title",
+					"slug": "custom-secondary-title"
+				},
+				{
+					"color": "#ffffff",
+					"name": "secondary_title_font",
+					"slug": "custom-secondary-title-font"
+				},
+				{
+					"color": "#5c6272",
+					"name": "section_title",
+					"slug": "custom-section-title"
+				},
+				{
+					"color": "#ffffff",
+					"name": "section_title_font",
+					"slug": "custom-section-title-font"
+				},
+				{
+					"color": "#414756",
+					"name": "selected",
+					"slug": "custom-selected"
+				},
+				{
+					"color": "#bdc4d7",
+					"name": "selected_border",
+					"slug": "custom-selected-border"
+				},
+				{
+					"color": "#4a5568",
+					"name": "tab_background",
+					"slug": "custom-tab-background"
+				},
+				{
+					"color": "#434753",
+					"name": "tag",
+					"slug": "custom-tag"
+				},
+				{
+					"color": "#ffffff",
+					"name": "tag_font",
+					"slug": "custom-tag-font"
+				},
+				{
+					"color": "#dae6f3",
+					"name": "text_color",
+					"slug": "custom-text-color"
+				},
+				{
+					"color": "#f7fafe",
+					"name": "text_dark",
+					"slug": "custom-text-dark"
+				},
+				{
+					"color": "#939dac",
+					"name": "text_light",
+					"slug": "custom-text-light"
+				},
+				{
+					"color": "#2d3748",
+					"name": "timeline_color",
+					"slug": "custom-timeline-color"
+				},
+				{
+					"color": "#393d46",
+					"name": "very_light_button",
+					"slug": "custom-very-light-button"
+				},
+				{
+					"color": "#ffffff",
+					"name": "very_light_button_font",
+					"slug": "custom-very-light-button-font"
+				},
+				{
+					"color": "#3b3e48",
+					"name": "widget_title_bar",
+					"slug": "custom-widget-title-bar"
+				},
+				{
+					"color": "#ffffff",
+					"name": "widget_title_font",
+					"slug": "custom-widget-title-font"
+				},
+				{
+					"color": "#ffffff",
+					"name": "text_very_light",
+					"slug": "custom-text-very-light"
+				}
+			]
+		},
 		"layout": {
 			"contentSize": "620px",
 			"wideSize": "1000px"
@@ -83,5 +522,5 @@
 		}
 	],
 	"version": 2,
-	"$schema": "https://schemas.wp.org/wp/6.3/theme.json"
+	"$schema": "https://schemas.wp.org/wp/6.4/theme.json"
 }
