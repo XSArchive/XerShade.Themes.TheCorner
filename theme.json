@@ -461,6 +461,60 @@
 					"name": "System Font",
 					"slug": "system-font",
 					"fontFace": []
+				},
+				{
+					"fontFamily": "Roboto",
+					"slug": "roboto",
+					"fontFace": [
+						{
+							"fontFamily": "Roboto",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/roboto_normal_300.ttf"
+							]
+						},
+						{
+							"fontFamily": "Roboto",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/roboto_italic_300.ttf"
+							]
+						},
+						{
+							"fontFamily": "Roboto",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/roboto_normal_700.ttf"
+							]
+						},
+						{
+							"fontFamily": "Roboto",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/roboto_italic_700.ttf"
+							]
+						},
+						{
+							"fontFamily": "Roboto",
+							"fontStyle": "normal",
+							"fontWeight": "100",
+							"src": [
+								"file:./assets/fonts/roboto_normal_100.ttf"
+							]
+						},
+						{
+							"fontFamily": "Roboto",
+							"fontStyle": "italic",
+							"fontWeight": "100",
+							"src": [
+								"file:./assets/fonts/roboto_italic_100.ttf"
+							]
+						}
+					]
 				}
 			]
 		},
