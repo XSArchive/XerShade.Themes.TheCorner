@@ -3,7 +3,7 @@
 		"appearanceTools": true,
 		"color": {
 			"palette": [
-								{
+				{
 					"color": "#2c8c69",
 					"name": "positive-dark",
 					"slug": "custom-positive-dark"
@@ -459,53 +459,8 @@
 				{
 					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
 					"name": "System Font",
-					"slug": "system-font"
-				},
-				{
-					"fontFace": [
-						{
-							"fontFamily": "Jura",
-							"fontStyle": "normal",
-							"fontWeight": "300",
-							"src": [
-								"file:./assets/fonts/jura_normal_300.ttf"
-							]
-						},
-						{
-							"fontFamily": "Jura",
-							"fontStyle": "normal",
-							"fontWeight": "400",
-							"src": [
-								"file:./assets/fonts/jura_normal_400.ttf"
-							]
-						},
-						{
-							"fontFamily": "Jura",
-							"fontStyle": "normal",
-							"fontWeight": "500",
-							"src": [
-								"file:./assets/fonts/jura_normal_500.ttf"
-							]
-						},
-						{
-							"fontFamily": "Jura",
-							"fontStyle": "normal",
-							"fontWeight": "600",
-							"src": [
-								"file:./assets/fonts/jura_normal_600.ttf"
-							]
-						},
-						{
-							"fontFamily": "Jura",
-							"fontStyle": "normal",
-							"fontWeight": "700",
-							"src": [
-								"file:./assets/fonts/jura_normal_700.ttf"
-							]
-						}
-					],
-					"fontFamily": "Jura",
-					"slug": "jura"
+					"slug": "system-font",
+					"fontFace": []
 				}
 			]
 		},
