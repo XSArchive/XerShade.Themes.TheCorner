@@ -457,14 +457,12 @@
 		"typography": {
 			"fontFamilies": [
 				{
+					"fontFace": [],
 					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
 					"name": "System Font",
-					"slug": "system-font",
-					"fontFace": []
+					"slug": "system-font"
 				},
 				{
-					"fontFamily": "Noto Sans",
-					"slug": "noto-sans",
 					"fontFace": [
 						{
 							"fontFamily": "Noto Sans",
@@ -514,11 +512,56 @@
 								"file:./assets/fonts/noto-sans_italic_700.ttf"
 							]
 						}
-					]
+					],
+					"fontFamily": "Noto Sans",
+					"slug": "noto-sans"
 				}
 			]
 		},
 		"useRootPaddingAwareAlignments": true
+	},
+	"styles": {
+		"elements": {
+			"h1": {
+				"typography": {
+					"fontSize": "2em"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontSize": "1.8em"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontSize": "1.6em"
+				}
+			},
+			"h4": {
+				"typography": {
+					"fontSize": "1.4em"
+				}
+			},
+			"h5": {
+				"typography": {
+					"fontSize": "1.2em"
+				}
+			},
+			"h6": {
+				"typography": {
+					"fontSize": "1em"
+				}
+			},
+			"link": {
+				"typography": {
+					"textDecoration": "none"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--noto-sans)",
+			"fontSize": "13px"
+		}
 	},
 	"templateParts": [
 		{
