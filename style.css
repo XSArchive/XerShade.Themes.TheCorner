@@ -14,3 +14,54 @@ Text Domain: thecorner
 Tags: blog, full-site-editing
 */
 
+:root {
+    --search--color: #ffffff;
+    --search--background: rgba(255,255,255,0.15) linear-gradient(to bottom, rgba(255,255,255,0.08) 0%, rgba(255,255,255,0) 100%);
+    --search--box-shadow: inset rgba(255,255,255,0.1) 0px 1px 0px;
+}
+
+body {
+    background-attachment: fixed;
+    background-color: rgb(66, 56, 99);
+    background-image: url('./assets/images/3.jpg');
+    background-position-x: 50%;
+    background-position-y: 0px;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.navigation-bar {
+    background-color: rgba(33, 35, 40, 0.4);
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+}
+
+.navigation-menu {
+    height: 100%;
+    vertical-align: middle;
+}
+
+.navigation-search {
+    background: var(--search--background);
+    color: var(--search--color);
+    box-shadow: var(--search--box-shadow, none);
+}
+
+.navigation-search > div > input.wp-block-search__input {
+    background: transparent !important;
+    color: var(--search--color);
+}
+
+.navigation-search > div > button.wp-block-search__button {
+    background: transparent !important;
+    padding: 0 0.4em;
+    margin: 0;
+}
+
+.content-wrapper {
+    margin-block-start: 0px;
+}
+
+.content-wrapper-inner {
+    box-shadow: rgba(0,0,0,0.06) 0px 0px 20px, rgba(0,0,0,0.08) 0px 1px 3px;
+}

@@ -437,6 +437,11 @@
 					"color": "#ffffff",
 					"name": "text_very_light",
 					"slug": "custom-text-very-light"
+				},
+				{
+					"color": "#000",
+					"name": "Colour 1 ",
+					"slug": "custom-colour-1"
 				}
 			]
 		},
@@ -525,6 +530,7 @@
 			"background": "var(--wp--preset--color--custom-focus-bg-3-color)",
 			"text": "var(--wp--preset--color--custom-text-color)"
 		},
+		"css": "",
 		"elements": {
 			"button": {
 				"color": {
